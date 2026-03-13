@@ -1,0 +1,5 @@
+{
+  "name": "運転者の動向調査アンケート",
+  "description": "岩手県トラック協会の運転者の動向調査アンケートを回答するためのアプリです。",
+  "requestFramePermissions": []
+}
